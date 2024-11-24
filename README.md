@@ -1,5 +1,5 @@
 <h1>Hello👋</h1>
-<p>My name is George,I'm 15 and Programmer</p>
+<p>My name is George</p>
 <p>print(Hello, World!)</p>
 
 <h2>✍ Programming Languages</h2>
